@@ -38,7 +38,7 @@ function fillCourse(){
 var canvas;
 var ctx;
 var x = 1000;
-var y = 500;
+var y = 800;
 var ls = 0;
 var rs = 0;
 var s = 50;
